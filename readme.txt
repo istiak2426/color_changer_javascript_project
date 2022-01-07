@@ -1,1 +1,1 @@
-Hover you mouse your color pallete to see the color box changing.
+Hover you mouse your on color pallete to see the color box changing.
