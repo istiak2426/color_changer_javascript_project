@@ -1,0 +1,74 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.band
+{
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.red
+{
+    background-color: red;
+    width: 15vw;
+    height: 10vh;
+}
+
+.blue
+{
+    background-color: blue;
+    width: 15vw;
+    height: 10vh;
+}
+
+.orange
+{
+    background-color:orange;
+    width: 15vw;
+    height: 10vh;
+}
+
+.green
+{
+    background-color: green;
+    width: 15vw;
+    height: 10vh;
+}
+
+.yellow
+{
+    background-color:yellow;
+    width: 15vw;
+    height: 10vh;
+}
+    
+
+.circle
+{
+    
+    width: 20vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
